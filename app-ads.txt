@@ -1,0 +1,6 @@
+# app-ads.txt de Luminar: Noche Eterna
+# Reemplaza la linea de ejemplo de abajo por la que te da AdMob
+# (AdMob > Aplicaciones > app-ads.txt, o Cuenta > ID de editor) y borra los comentarios.
+# Formato: dominio-del-vendedor, ID-de-editor, tipo-de-relacion, ID-de-certificacion
+#
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
